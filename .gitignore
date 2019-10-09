@@ -1,4 +1,4 @@
-# ignore visual studio directies and local files
+# ignore visual studio directories and local files
 .vscode
 build/VS2019/x64/**
 build/VS2019/.vs/**
